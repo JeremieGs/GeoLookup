@@ -13,7 +13,7 @@ This API is designed to be integrated into your project, allowing you to retriev
 - **Example query**:
 - Example 1( provide an IP address)
   ```http
-  GET /api-v1/181.174.87.53
+  GET https://api.ipgeolookup.jconceptiom.com/api-v1/181.174.87.53
   {
     "city": "Guatemala City",
     "continent_code": "NA",
@@ -30,7 +30,7 @@ This API is designed to be integrated into your project, allowing you to retriev
   }
 - Example 1( without an IP address)
    ```http
-  GET /api-v1/
+  GET https://api.ipgeolookup.jconceptiom.com/api-v1/
    {
       "city": "Lomé",
       "continent_code": "AF",
