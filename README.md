@@ -28,7 +28,10 @@ This API is designed to be integrated into your project, allowing you to retriev
     "region": "GU",
     "time_zone": "America/Guatemala"
   }
-- Example 1( without an IP address)
+![image](https://github.com/JeremieGs/GeoLookup/assets/102216912/c5d6f024-4c6a-43ce-8181-787223c0cc26)
+
+  
+- Example 2( without an IP address)
    ```http
   GET https://api.ipgeolookup.jconceptiom.com/api-v1/
    {
@@ -45,3 +48,5 @@ This API is designed to be integrated into your project, allowing you to retriev
       "region": "M",
       "time_zone": "Africa/Lome"
    }
+![image](https://github.com/JeremieGs/GeoLookup/assets/102216912/1fa30805-083c-40ea-b332-38498bc52d90)
+
